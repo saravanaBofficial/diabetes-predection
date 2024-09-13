@@ -38,8 +38,7 @@ _(click the button!)_
 Projects: 
 # # diabetes-predection with Streamlit 
 
-"Startup-Company-Machine-Learning with Streamlit" likely refers to a project or initiative where a startup company is leveraging Streamlit, a Python library for creating web applications, to showcase or deploy machine learning models.
-
+"Streamlit is a powerful tool for creating interactive web applications with minimal effort, and it can be effectively used for building a diabetes prediction app. Here’s a brief overview of how you could use Streamlit to create a diabetes prediction tool, including some potential features and considerations.
 
 
 [diabetes-predection ](https://github.com/saravana/diabetes-predection)
