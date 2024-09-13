@@ -12,11 +12,11 @@
 
 ### Home page
 
-![diabetes-predection](file:///C:/Users/admin/Downloads/ezgif-5-a28bc56ffe.gif)
+![diabetes-predection](file:///C:/Users/admin/Downloads/ezgif-5-a28bc56ffe)
 
 ### Startup Prediction Performance
 
-![diabetes-predection](file:///C:/Users/admin/Downloads/ezgif-5-a0e85cde60.gif)
+![diabetes-predection](file:///C:/Users/admin/Downloads/ezgif-5-a0e85cde60)
 
 ### Startup Dashboard Performance 
 
