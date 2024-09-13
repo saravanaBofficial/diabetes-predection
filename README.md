@@ -55,7 +55,8 @@ Projects:
 
 ### Home page
 
-![diabetes-predection](file:///C:/Users/admin/Downloads/ezgif-5-a28bc56ffe)
+![diabetes-predection](https://github.com/user-attachments/assets/001473de-e176-4ed3-b313-b5232b610c71)
+
 
 ### Startup Prediction Performance
 
