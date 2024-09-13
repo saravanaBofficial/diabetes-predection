@@ -59,7 +59,8 @@ Projects:
 
 ### Startup Prediction Performance
 
-![diabetes-predection]([file:///C:/Users/admin/Desktop/Screenshot%202024-09-13%20155535))
+![diabetes-predection](https://github.com/user-attachments/assets/77dfcd34-830b-4f12-96e4-215bd3bff6ee)
+
 
 ## Requirements
 Python 3.9.13
