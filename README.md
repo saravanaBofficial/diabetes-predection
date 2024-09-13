@@ -59,7 +59,7 @@ Projects:
 
 ### Startup Prediction Performance
 
-![diabetes-predection]([file:///C:/Users/admin/Downloads/ezgif-5-a0e85cde60](https://s5.ezgif.com/tmp/ezgif-5-a0e85cde60.gif))
+![diabetes-predection]([file:///C:/Users/admin/Desktop/Screenshot%202024-09-13%20155535.jpg))
 
 ## Requirements
 Python 3.9.13
