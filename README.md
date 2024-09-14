@@ -91,6 +91,74 @@ $ pip install -r requirements.txt
 </br>
 [UpGlucose,BloodPressure,SkinThickness,Insulin,BMI,DiabetesPedigreeFunction,Age,Outcome
 
+## Data of Diabetes Prediction table
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Table Example</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Sample Table</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Glucose</th>
+            <th>Blood Pressure</th>
+            <th>Skin Thickness</th>
+            <th>Insulin</th>
+            <th>BMI</th>
+            <th>Diabetes Pedigree Function</th>
+            <th>Age</th>
+            <th>Outcome</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>148</td>
+            <td>72</td>
+            <td>35</td>
+            <td>0</td>
+            <td>33.6</td>
+            <td>0.627</td>
+            <td>50</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>85</td>
+            <td>66</td>
+            <td>29</td>
+            <td>0</td>
+            <td>26.6</td>
+            <td>0.351</td>
+            <td>31</td>
+            <td>0</td>
+        </tr>
+        <!-- Add more rows here -->
+    </tbody>
+</table>
+
+</body>
+</html>
 
 
 ## Acknowledgements
