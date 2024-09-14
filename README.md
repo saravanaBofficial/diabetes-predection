@@ -40,9 +40,9 @@ Projects:
 
 "Streamlit is a powerful tool for creating interactive web applications with minimal effort, and it can be effectively used for building a diabetes prediction app. Here’s a brief overview of how you could use Streamlit to create a diabetes prediction tool, including some potential features and considerations.
 
-
+<img src="[https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif]" height=15% width=40% align="right">
 [diabetes-predection ](https://github.com/saravana/diabetes-predection)
-<img src="(https://github.com/user-attachments/assets/5c385014-ebe0-4c34-af2c-3214b563c585.gif)" height=15% width=40% align="right">
+
 ## Project Overview:
 
 #### Mr.saravana have successfully completed a groundbreaking project over the course of 2 months, focusing on Diabetes Web App is designed to provide a user-friendly interface for predicting the likelihood of diabetes based on user input. This application leverages machine learning algorithms to analyze health data and offer predictions with actionable insights. The goal is to assist individuals in understanding their risk of diabetes and encourage them to seek professional medical advice if necessary.
