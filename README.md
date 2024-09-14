@@ -9,7 +9,7 @@
 * Demanding Perfectionist
 
 🌱 I'm currently learning:cloud services on [LeetCode](https://leetcode.com/saravanabofficial)<br>
-📬 How to reach me: [hirthicksoffical@gmail.com](mailto:saravanbofficial@gmail.com)<br>
+📬 How to reach me: [saravanbofficial@gmail.com](mailto:saravanbofficial@gmail.com)<br>
 💪 This is where I write, code and solve problems.<br><br>
  As acloud services, I enjoy using my obsessive attention to detail, my unequivocal love for making 
  things that change the world.
@@ -28,7 +28,7 @@ _(click the button!)_
 [![GitHub](https://img.shields.io/badge/-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saravanabofficial) [![Email](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:saravanabofficial@gmail.com)
 
 
-- 👨💻All of my projects are available at [https://github.com/Hirthick6](https://github.com/Hirthick6)
+- 👨💻All of my projects are available at [https://github.com/saravanaBofficial](https://github.com/saravanaBofficial)
 
 -------------------------------------------------------------------------------------------------------
 **Check out 
@@ -42,10 +42,10 @@ Projects:
 
 
 [diabetes-predection ](https://github.com/saravana/diabetes-predection)
-
+<img src="(https://github.com/user-attachments/assets/5c385014-ebe0-4c34-af2c-3214b563c585.gif)" height=15% width=40% align="right">
 ## Project Overview:
 
-#### Mr.saravana have successfully completed a groundbreaking project over the course of 2 months, focusing on diabetes-predection with Streamlit . This collaborative effort showcases their expertise in  diabetes-predection.
+#### Mr.saravana have successfully completed a groundbreaking project over the course of 2 months, focusing on Diabetes Web App is designed to provide a user-friendly interface for predicting the likelihood of diabetes based on user input. This application leverages machine learning algorithms to analyze health data and offer predictions with actionable insights. The goal is to assist individuals in understanding their risk of diabetes and encourage them to seek professional medical advice if necessary.
 
 ###  If you have any doubt or want to contribute feel free to hit me up on (saravanbofficial@gmail.com)
 
@@ -63,39 +63,31 @@ Projects:
 
 
 ## Requirements
-Python 3.9.13
-Streamlit
-Machine Learning
-Pandas
-Numpy
-Scikit-learn
+To set up and run the Diabetes Web App, ensure you have the following prerequisites installed:
 
+Python 3.8 or higher
+Flask (for the web application framework)
+scikit-learn (for machine learning model)
+pandas (for data manipulation)
+numpy (for numerical operations)
+Bootstrap (for frontend styling)
 ## How to Run
 * Clone the repository
 
 ```
-$ git clone https://github.com/Hirthick6/Startup-Company-Machine-Learning.git
-```
-* Setup Virtual Environment
+git clone https://github.com/yourusername/diabetes-web-app.git
+cd diabetes-web-app
 
 ```
-$ python3 -m venv env
-```
-* Activate the virtual environment
 
-```
-$ env\Scripts\activate
-```
+
 * Install dependencies using
 
 ```
 $ pip install -r requirements.txt
 ```
-* Run Streamlit
 
-```
-$ streamlit run main.py
-```
+
 </br>
 [UpGlucose,BloodPressure,SkinThickness,Insulin,BMI,DiabetesPedigreeFunction,Age,Outcome
 
@@ -107,9 +99,12 @@ The app uses the Streamlit(<https://github.com/streamlit/streamlit>) library for
 
 ## Future Enhancement and Acknowledgment of Diabetes Prediction
 
-In the evolving field of diabetes prediction, advancements in technology and research offer promising pathways to enhance early detection and prevention. Future enhancements in diabetes prediction could include the integration of advanced artificial intelligence and machine learning algorithms that analyze a broader range of health indicators and personal data, leading to more accurate and individualized risk assessments. Additionally, incorporating continuous glucose monitoring devices and wearable technology could provide real-time insights into metabolic changes, allowing for more proactive and tailored interventions.
-
-Acknowledging the progress made thus far, it's important to recognize the contributions of researchers, healthcare professionals, and technology developers who have paved the way for these advancements. Their dedication to improving diabetes prediction and prevention has already made a significant impact on countless lives. As we move forward, continued collaboration and innovation will be essential in refining these tools and ultimately reducing the burden of diabetes through earlier and more precise detection.
-
-
-
+Integration with Electronic Health Records (EHRs): Enhance the app by integrating it with EHR systems for more comprehensive data analysis.
+User Personalization: Incorporate user profiles and historical data for more accurate predictions.
+Mobile App Version: Develop a mobile application to reach a wider audience and improve accessibility.
+Real-time Data Analysis: Implement real-time health data monitoring and analysis for continuous risk assessment.
+Acknowledgments
+Machine Learning Models: The predictive model used in this app was developed using algorithms from the scikit-learn library.
+Web Framework: Flask was used to build the web application framework, enabling a robust and scalable user interface.
+UI/UX Design: Bootstrap was utilized for designing a responsive and user-friendly front end.
+Data Sources: The data used for training the model was sourced from publicly available datasets on diabetes.
